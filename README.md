@@ -1,5 +1,5 @@
 # LeetCode_Solutions
-```markdown
+
 # 📘 LeetCode Solutions by PRINCE_30
 
 Welcome to the **LeetCode_Solutions** repository! 🚀  
@@ -9,9 +9,9 @@ Here, you will find a comprehensive and organized collection of my daily **LeetC
 
 ---
 
+
 ## 📁 Folder Structure
 
-```
 
 LeetCode\_Solutions/
 ├── Arrays/
@@ -36,7 +36,12 @@ LeetCode\_Solutions/
 ├── SQL/
 └── README.md
 
-````
+
+
+
+---
+
+
 
 Each folder contains:
 - ✅ Problem Title (as filename)
@@ -76,9 +81,9 @@ Each folder contains:
 ## 🌍 How to Search a Solution?
 
 1. Clone the repo:
-   ```bash
+   ```
    git clone https://github.com/CodderPrince/LeetCode_Solutions.git
-````
+```
 
 2. Use GitHub search bar or terminal:
 
@@ -134,6 +139,3 @@ If you find this repo useful, **give it a star** 🌟
 Let’s grow together in our DSA journey 🚀
 
 ---
-
-```
-```
