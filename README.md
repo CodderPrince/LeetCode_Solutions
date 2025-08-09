@@ -12,7 +12,7 @@ Here, you will find a comprehensive and organized collection of my daily **LeetC
 
 ## 📁 Folder Structure
 
-
+```
 LeetCode\_Solutions/
 ├── Arrays/
 ├── Strings/
@@ -35,7 +35,7 @@ LeetCode\_Solutions/
 ├── Trie/
 ├── SQL/
 └── README.md
-
+```
 
 
 
@@ -83,7 +83,7 @@ Each folder contains:
 1. Clone the repo:
    ```
    git clone https://github.com/CodderPrince/LeetCode_Solutions.git
-```
+   ```
 
 2. Use GitHub search bar or terminal:
 
